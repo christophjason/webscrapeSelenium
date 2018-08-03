@@ -1,0 +1,3 @@
+[console_scripts]
+requests_crawler = requests_crawler:main
+
